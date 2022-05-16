@@ -1,0 +1,3 @@
+/home/cory/Code/AppleRecog/build/CMakeFiles/rebuild_cache.dir
+/home/cory/Code/AppleRecog/build/CMakeFiles/edit_cache.dir
+/home/cory/Code/AppleRecog/build/CMakeFiles/APPLERECOG.dir
